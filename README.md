@@ -23,16 +23,16 @@ yarn add @iconscout/vue-unicons-thinline
 ```html
 <template>
   <div>
-    <uis-star size="180px" class="logo" />
+    <uit-star size="180px" class="logo" />
   </div>
 </template>
 
 <script>
-  import { UisStar } from "@iconscout/vue-unicons-thinline";
+  import { UitStar } from "@iconscout/vue-unicons-thinline";
 
   export default {
     components: {
-      UisStar,
+      UitStar,
     },
   };
 </script>
